@@ -5,7 +5,7 @@ Descripción:
 Este curso te introducirá en el uso de escritura, acceso a archivos y directorios en el lenguaje de programación Java.
 
 Aplicaciones:
-Este curso te llevará paso a paso a través dela creación de directorios en Java
+Este curso te llevará paso a paso a través de la creación de directorios en Java
 
 Objetivo general:
 Aprender qué son y cómo utilizar los archivos en el lenguaje de programación Java
