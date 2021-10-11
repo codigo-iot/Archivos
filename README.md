@@ -16,5 +16,5 @@ Objetivos Específicos:
 -aprender qué es un stream 
 
 Justificación:
-El manejo de  archivos en el lenguaje de programación Javacnos permite hacer códigos más robustos, ya que podemos almacenar y leer información desde diversos archivos.
+El manejo de  archivos en el lenguaje de programación Java nos permite hacer códigos más robustos, ya que podemos almacenar y leer información desde diversos archivos.
 
