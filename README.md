@@ -12,8 +12,9 @@ Aprender qué son y cómo utilizar los archivos en el lenguaje de programación 
 
 Objetivos Específicos:
 -Aprender cómo se crean y leen los archivos en Java.
+
 -aprender qué es un stream 
 
 Justificación:
-Las funciones del sistema permiten acceder a características específicas del lenguaje de programación Java.
+El manejo de  archivos en el lenguaje de programación Javacnos permite hacer códigos más robustos, ya que podemos almacenar y leer información desde diversos archivos.
 
